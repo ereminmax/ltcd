@@ -1,4 +1,4 @@
-package com.maxeremin.ltcd.dp;
+package com.maxeremin.hackercoder;
 
 /**
  * A simple, easy to remember system for encoding integer amounts can be very useful. For example, dealers at flea markets put the information about an item on a card that they let potential buyers see. They find it advantageous to encode the amount they originally paid for the item on the card.
