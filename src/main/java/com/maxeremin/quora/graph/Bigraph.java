@@ -1,7 +1,7 @@
 package com.maxeremin.quora.graph;
 
 import java.util.*;
-
+// http://www.techiedelight.com/bipartite-graph/
 public class Bigraph {
     static class Edge {
         int source, dest;
